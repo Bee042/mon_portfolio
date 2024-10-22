@@ -12,7 +12,7 @@ avec un design minimaliste et une navigation fluide et responsive
 ## Installation
 
 1. Clonez le dépôt :
-    ```git clone https://github.com/TON-UTILISATEUR/toto.git```
+    ```git clone https://github.com/Bee042/mon_portfolio```
 2. Installez les dépendances :
     ```npm install```
 3. Lancez l'application :
