@@ -23,6 +23,6 @@ avec un design minimaliste et une navigation fluide et responsive
 - 'npm start' : Lance l'application en mode développement.
 - 'npm run build' : Prépare l'application pour la production.
 
-## Auteur*
+## Auteur
 Barbara B.
 
